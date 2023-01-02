@@ -1,0 +1,73 @@
+#movie{
+    background-color: lawngreen;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+
+.row{
+    width: 800px;
+    height: 1000px;
+    position: relative;
+    top:-54px;
+
+
+}
+
+.colo{
+    width: 300px;
+    height: 785px;
+    border: red 3px solid;
+    top: 50px;
+    position: absolute;
+    border-radius: 20px;
+left: 20%;
+}
+.colo-1{
+    left:26px;
+}
+.colo-2{
+    left:340px;
+}
+.colo-3{
+    left:655px;
+}
+.colo-4{
+    left:968px;
+}
+.colo-5{
+    left:1280px;
+}
+body{
+    background-color: black;
+}
+img{
+width: 85%;
+height: 250px;
+border-radius: 30px;
+margin-top: 10px;
+margin-left: 20px;
+}
+h1{
+color: darkgreen;
+text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* font-family: ; */
+}
+#imdb{
+height:40px;
+width: 193px;
+left: 18%;
+top: 715px;
+background-color: chartreuse;
+text-align:center;
+padding-top: 19px;
+position: absolute;
+border-radius: 50px;
+}
